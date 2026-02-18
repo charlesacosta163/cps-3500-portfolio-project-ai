@@ -52,7 +52,7 @@ export default function Home() {
           </Link>
 
           <Link
-            href="charlesac.dev"
+            href="https://charlesac.dev"
             className="bg-orange-50 p-4 rounded-2xl flex gap-4 items-center justify-between text-2xl font-bold tracking-tight transition-all hover:bg-orange-100"
           >
             <Image src={flowerSvg} alt="Flower" width={50} />
@@ -162,7 +162,7 @@ export default function Home() {
               </div>
 
               <Link
-                href="iflytics.app"
+                href="https://iflytics.app"
                 className="self-start bg-[#9CAB84] hover:bg-[#9CAB84]/50 transition-all text-white px-4 py-2 rounded-2xl flex gap-2 items-center font-semibold text-sm"
               >
                 Website <LuLink2 />
